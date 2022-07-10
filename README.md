@@ -22,4 +22,4 @@ In my following front-end projects I will be trying to came up with soluctions f
 
 ![Desktop and Mobile Screenshots](https://user-images.githubusercontent.com/105513033/178129844-eaed6cf1-38f5-4a17-90c0-a11629740d3e.png)
 
-You can see the file without dowloading it <a href"#">here</a>
+You can see the file without dowloading it <a href="https://second-front-end-project-cards.vercel.app/" target="_blank">here</a>
